@@ -1,0 +1,45 @@
+h1{text-align: center;}
+#bot a {position: absolute;
+left: 250px;
+font-size: 20px;}
+h2{font-size: 20px;
+text-align: center;}
+a:hover{color: red;}
+#top a {position: absolute;
+right: 250px;
+font-size: 20px;}
+body{background-color: yellow;
+border-bottom: white solid 15px;
+border-top: white solid 15px;
+border-left: 200px white solid;
+border-right: 200px white solid;
+
+
+}
+hr{margin-top: 5px;
+    margin-bottom: 5px;
+color: red;
+border: red solid 2px;}
+img:hover{width: 47%;
+    mask-image: none;
+
+}
+img{width: 200px;
+position: absolute;
+   right: 208px;
+ }
+ .jobb{
+background-color: yellow;
+}
+     .bal{ width: 150px;
+    left: 208px;
+background-color: yellow;}
+    .jobb:hover{width: 150px;}
+    .bal:hover{width: 150px;}
+    .ár{ text-align: center;
+    font-size: 40px;}
+    .kicsi{ color: red;
+    border: red solid 1px;}
+    .izz{ font-size: small;}
+    .tyy{ text-align: center;}
+    .iyy{text-align: right;}
